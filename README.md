@@ -9,3 +9,4 @@ I would like to challenge myself to improve program implementations skills and l
 1. Not forking from other project
 
 # Progress 2019/10/25 ~ 2020/10/18
+1. 2019/10/25 - 2019/10/31 [check instagram new post](https://github.com/jamieabc/ig-check-new-post)
