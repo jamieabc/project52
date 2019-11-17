@@ -12,3 +12,4 @@ I would like to challenge myself to improve program implementations skills and l
 1. 2019/10/25 - 2019/10/31 [check instagram new post](https://github.com/jamieabc/ig-check-new-post)
 2. 2019/11/1 - 2019/11/7 [libp2p chat on muxer by protobuf](https://github.com/jamieabc/libp2p-muxer-chat-with-protobuf)
 3. 2019/11/8 - 2019/11/14 [min-heap](https://github.com/jamieabc/heap)
+4. 2019/11/15 - 2019/11/21 [binary search tree](https://github.com/jamieabc/binary-search-tree)
