@@ -14,3 +14,4 @@ I would like to challenge myself to improve program implementations skills and l
 3. 2019/11/8 - 2019/11/14 [min-heap](https://github.com/jamieabc/heap)
 4. 2019/11/15 - 2019/11/21 [binary search tree](https://github.com/jamieabc/binary-search-tree)
 5. 2019/11/22 - 2019/11/28 [consistent hash](https://github.com/jamieabc/consistent-hash)
+6. 2019/11/29 - 2019/12/5 [priority queue](https://github.com/jamieabc/priority-queue)
