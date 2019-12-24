@@ -17,3 +17,4 @@ I would like to challenge myself to improve program implementations skills and l
 6. 2019/11/29 - 2019/12/5 [priority queue](https://github.com/jamieabc/priority-queue)
 7. 2019/12/6 - 2019/12/12 [base58 encode decode](https://github.com/jamieabc/base58-encode-decode)
 8. 2019/12/13 - 2019/12/19 [zeromq in proc communication](https://github.com/jamieabc/zmq-in-proc)
+9. 2019/12/20 - 2019/12/26 [google cloud translate](https://github.com/jamieabc/translate)
