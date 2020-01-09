@@ -19,3 +19,4 @@ I would like to challenge myself to improve program implementations skills and l
 8. 2019/12/13 - 2019/12/19 [zeromq in proc communication](https://github.com/jamieabc/zmq-in-proc)
 9. 2019/12/20 - 2019/12/26 [google cloud translate](https://github.com/jamieabc/translate)
 10. 2019/12/27 - 2020/01/02 [merge sort](https://github.com/jamieabc/go-merge-sort)
+11. 2020/01/03 - 2020/01/09 [check memory through ssh](https://github.com/jamieabc/ssh-mem-logger)
