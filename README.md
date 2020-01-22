@@ -21,3 +21,4 @@ I would like to challenge myself to improve program implementations skills and l
 10. 2019/12/27 - 2020/01/02 [merge sort](https://github.com/jamieabc/go-merge-sort)
 11. 2020/01/03 - 2020/01/09 [check memory through ssh](https://github.com/jamieabc/ssh-mem-logger)
 12 2020/01/10 - 2020/01/16 [convert speech to text using gcp](https://github.com/jamieabc/go-gcp-speech-to-text)
+13 2020/01/17 - 2020/01/23 [summarize my leetcode progress](https://github.com/jamieabc/go-git-log-summary)
