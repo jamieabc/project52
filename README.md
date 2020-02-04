@@ -23,3 +23,4 @@ I would like to challenge myself to improve program implementations skills and l
 12. 2020/01/10 - 2020/01/16 [convert speech to text using gcp](https://github.com/jamieabc/go-gcp-speech-to-text)
 13. 2020/01/17 - 2020/01/23 [summarize my leetcode progress](https://github.com/jamieabc/go-git-log-summary)
 14. 2020/01/24 - 2020/01/30 [quick sort](https://github.com/jamieabc/quick-sort)
+15. 2020/01/31 - 2020/02/06 [tree traversal](https://github.com/jamieabc/tree-traversal)
